@@ -40,7 +40,7 @@ Due to licensing it is not possible to provide any data. Please refer to [STSGCN
  python h36m/train_mixer_h36m.py --input_n 10 --output_n 25 --skip_rate 1 
  ```
  ```
- python amaas/train_mixer_amass.py --input_n 10 --output_n 25 --skip_rate 5 
+ python amass/train_mixer_amass.py --input_n 10 --output_n 25 --skip_rate 5 
  ```
  
  ## Evaluation
@@ -49,7 +49,7 @@ Due to licensing it is not possible to provide any data. Please refer to [STSGCN
  python h36m/test_mixer_h36m.py --input_n 10 --output_n 25 --skip_rate 1 
  ```
  ```
- python amaas/test_mixer_amass.py --input_n 10 --output_n 25 --skip_rate 5 
+ python amass/test_mixer_amass.py --input_n 10 --output_n 25 --skip_rate 5 
  ```
  
  ## Models
