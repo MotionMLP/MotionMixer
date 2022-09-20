@@ -36,6 +36,7 @@ Due to licensing it is not possible to provide any data. Please refer to [STSGCN
 
 ## Training
 
+To train the model on h36m or amass, you can use the following commands:
  ```
  python h36m/train_mixer_h36m.py --input_n 10 --output_n 25 --skip_rate 1 
  ```
@@ -45,6 +46,7 @@ Due to licensing it is not possible to provide any data. Please refer to [STSGCN
  
  ## Evaluation
 
+To test the pretrained models, you can use the following commands:
  ```
  python h36m/test_mixer_h36m.py --input_n 10 --output_n 25 --skip_rate 1 
  ```
