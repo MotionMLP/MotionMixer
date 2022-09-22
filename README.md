@@ -63,12 +63,17 @@ We release the pretrained models for academic purpose. You can download them fro
 If you find this code useful for your research, please consider citing the following paper:
 
 ```latex
-@inproceedings{motionmixer,
-  title={MotionMixer: MLP-based 3D Human Body Pose Forecasting},
-  author={Bouazizi, Arij and Holzbock, Adrian and Kressel, Ulrich and Dietmayer, Klaus and Belagiannis, Vasileios},
-  booktitle={2022 31st International Joint Conference on Artificial Intelligence (IJCAI 2022)},
-  year={2022},
+@inproceedings{ijcai2022p111,
+  title     = {MotionMixer: MLP-based 3D Human Body Pose Forecasting},
+  author    = {Bouazizi, Arij and Holzbock, Adrian and Kressel, Ulrich and Dietmayer, Klaus and Belagiannis, Vasileios},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  pages     = {791--798},
+  year      = {2022},
+  month     = {7},
 }
+
 ```
 
  ## Acknowledgments
